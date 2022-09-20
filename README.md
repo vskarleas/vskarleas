@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning docker, flutter, PHP and Drupal.
 - 💞️ I’m looking to collaborate on apps development projects to get into the idea of collaborating wit a team on a piece of code.
 - 📫 You can reach me out at <a href="mailto:hi@madebyvasilis.site">hi@madebyvasilis.site</a>
-- 🖥 You can find out all my projects in my <a href="https://www.madebyvasilis.site/portfolio">portfolio</a>
+- 🖥 You can find out all my projects in my <a href="https://www.madebyvasilis.site/portfolio">portfolio</a> or at my <a href="https://www.madebyvasilis.site/">personal website</a>
 
 <!---
 vskarleas/vskarleas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
