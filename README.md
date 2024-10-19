@@ -1,12 +1,23 @@
-- 👋 Was co-founder and CTO at <a href="https://www.lekitable.fr">Lekitable</a>, the first green-network of products in France. 
-- Producer of the <a href="https://podcast.changemakerz.org/">GenZers to rise! Podcast</a> and soon the <a href="https://globalnavigators.eu/">Global Navigators Podcast</a>. I am passionate about the STEM. My interests include videography, aerial photography, digital art, 3D printing and robotics.
-- 📐 Creator of <a href="https://podcast.changemakerz.org/changemakerz">ChangemakerZ App</a> a social change app, <a href="https://madebyvasilis.site/apps">Patients DB 2.0</a> a HIPPA compliant application to keep patient records for doctors, and of <a href="https://cloud.madebyvasilis.site">VScloud Connect</a>, an all-in-one solution for clients management, domain name data, support tickets & project managament etc. Check out all my app projects <a href="https://madebyvasilis.site/apps">here</a>.
-- 👀 Studying robotics engineering at Polytech Sorbonne. 
-- 🌱 Currently learning docker, ROS, OpenCV, mongoDB and PHP.
-- 📫 Reach out at <a href="mailto:hi@madebyvasilis.site">hi@madebyvasilis.site</a>
-- 🖥 Find out all the web dev projects in his <a href="https://www.madebyvasilis.site/portfolio">portfolio</a>
+# 👋 Meet Vasilis Skarleas
+Greetings from Greece! I’m Vasilis Filippos Skarleas, a tech entrepreneur and media producer born in 2003. I love blending technology with creativity to make a positive impact!
 
-<!---
-vskarleas/vskarleas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌍 Innovation at Work
+
+* Co-founder and former CTO of Lekitable, France's first green network for products—because sustainability matters!
+* Executive producer of the GenZers to Rise! Podcast, where we share inspiring stories of change-makers and soon launching the Global Navigators Podcast—stay tuned!
+
+## 🎨 Passion Projects
+* I’m passionate about STEM and have dived into various creative realms:
+-- 🎥 Videography & aerial photography—capturing the world from unique angles.
+-- 🎨 Digital art & 3D printing—where imagination meets innovation.
+  
+## 📱 Creating Change
+Developed the ChangemakerZ App for social change enthusiasts, Patients DB 2.0 for HIPAA-compliant patient management, and VScloud Connect for an all-in-one client management solution. Explore my apps [here](https://madebyvasilis.site/apps)!
+
+## 🎓 Academic Adventures
+* Studying robotics engineering at Polytech Sorbonne.
+* 🛠️ Currently exploring Docker, ROS, OpenCV, MongoDB, and PHP.
+
+## 🌱 Making Connections
+Let’s collaborate! You can reach me at hi@madebyvasilis.site.
+Curious about my web development projects? Check out my [bio](https://madebyvasilis.site/about).
