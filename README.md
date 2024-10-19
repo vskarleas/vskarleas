@@ -1,23 +1,18 @@
-# 👋 Meet Vasilis Skarleas
-Greetings from Greece! I’m Vasilis Filippos Skarleas, a tech entrepreneur and media producer born in 2003. I love blending technology with creativity to make a positive impact!
+👋 Hi, I'm Vasilis Skarleas! I'm a tech entrepreneur, media producer, and robotics engineering student. 
 
-## 🌍 Innovation at Work
-
-* Co-founder and former CTO of Lekitable, France's first green network for products—because sustainability matters!
-* Executive producer of the GenZers to Rise! Podcast, where we share inspiring stories of change-makers and soon launching the Global Navigators Podcast—stay tuned!
-
-## 🎨 Passion Projects
-* I’m passionate about STEM and have dived into various creative realms:
--- 🎥 Videography & aerial photography—capturing the world from unique angles.
--- 🎨 Digital art & 3D printing—where imagination meets innovation.
+- **Former CTO & Co-Founder** of [Lekitable](https://www.lekitable.fr), the first green-network of products in France 🌱. 
+- Executive Producer of the [GenZers to rise! Podcast](https://podcast.changemakerz.org/), and excited to be launching the [Global Navigators Podcast](https://globalnavigators.eu/) soon 🎙️. I’m deeply passionate about STEM and creating positive change.
+- 🚀 I’m constantly diving into new tech – from **[videography](https://www.youtube.com/@madebyvasilis)** to **aerial photography**, **digital art**, **3D printing**, and of course, **robotics**. If it's innovative, I’m probably into it!
   
-## 📱 Creating Change
-Developed the ChangemakerZ App for social change enthusiasts, Patients DB 2.0 for HIPAA-compliant patient management, and VScloud Connect for an all-in-one client management solution. Explore my apps [here](https://madebyvasilis.site/apps)!
+💡 **Creator of:**  
+  - [ChangemakerZ App](https://podcast.changemakerz.org/changemakerz) – A social change platform to make a real difference.  
+  - [Patients DB 2.0](https://madebyvasilis.site/apps) – A HIPAA-compliant application that helps doctors manage patient records.  
+  - [VScloud Connect](https://cloud.madebyvasilis.site) – The all-in-one solution for client management, domain names, support tickets & project management.  
+  Check out all my app projects [here](https://madebyvasilis.site/apps).
 
-## 🎓 Academic Adventures
-* Studying robotics engineering at Polytech Sorbonne.
-* 🛠️ Currently exploring Docker, ROS, OpenCV, MongoDB, and PHP.
+📐 **Studying Robotics Engineering** at Polytech Sorbonne – because why not combine my love for technology with real-world applications? 🤖  
+🎓 **Currently learning**: Docker, ROS, OpenCV, MongoDB, and PHP. Always adding more tools to my tech toolkit! 🔧
 
-## 🌱 Making Connections
-Let’s collaborate! You can reach me at hi@madebyvasilis.site.
-Curious about my web development projects? Check out my [bio](https://madebyvasilis.site/about).
+💬 If you want to chat about STEM, robotics, or just want to connect), reach out at [hi@madebyvasilis.site](mailto:hi@madebyvasilis.site).
+
+🖥 Check out my website [here](https://www.madebyvasilis.site/about). Feel free to find out more on my projects below and on the repos page.
