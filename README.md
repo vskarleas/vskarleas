@@ -1,4 +1,5 @@
 👋 Hi, I'm Vasilis Skarleas! I'm a tech entrepreneur, media producer, and robotics engineering student. 
+
 Hint: All of my projects are availble in detail on my [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)
 
 - **Former CTO & Co-Founder** of [Lekitable](https://www.lekitable.fr), the first green-network of products in France 🌱. 
