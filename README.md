@@ -1,4 +1,5 @@
 👋 Hi, I'm Vasilis Skarleas! I'm a tech entrepreneur, media producer, and robotics engineering student. 
+Hint: All of my projects are availble in detail on my [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)
 
 - **Former CTO & Co-Founder** of [Lekitable](https://www.lekitable.fr), the first green-network of products in France 🌱. 
 - Executive Producer of the [GenZers to rise! Podcast](https://podcast.changemakerz.org/), and excited to be launching the [Global Navigators Podcast](https://globalnavigators.eu/) soon 🎙️. I’m deeply passionate about STEM and creating positive change.
