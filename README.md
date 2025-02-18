@@ -1,19 +1,41 @@
-👋 Hi, I'm Vasilis Skarleas! I'm a tech entrepreneur, media producer, and robotics engineering student. 
-***Hint:*** _All of my projects are availble in detail on my [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)_
+# 👋 Hi, I'm Vasilis Skarleas!
 
-- **Former CTO & Co-Founder** of [Lekitable](https://www.lekitable.fr), the first green-network of products in France 🌱. 
-- Executive Producer of the [GenZers to rise! Podcast](https://podcast.changemakerz.org/), and excited to be launching the [Global Navigators Podcast](https://globalnavigators.eu/) soon 🎙️. I’m deeply passionate about STEM and creating positive change.
-- 🚀 I’m constantly diving into new tech – from [videography](https://www.youtube.com/@madebyvasilis) to aerial photography, digital art, 3D printing, and of course, robotics. I’m all into it!
-  
-💡 **Creator of:**  
-  - [ChangemakerZ App](https://podcast.changemakerz.org/changemakerz) – A social change platform to make a real difference.  
-  - [Patients DB 2.0](https://madebyvasilis.site/apps) – A HIPAA-compliant application that helps doctors manage patient records.  
-  - [VScloud Connect](https://cloud.madebyvasilis.site) – The all-in-one solution for client management, domain names, support tickets & project management.  
-  Check out all my app projects [here](https://madebyvasilis.site/portfolio).
+I'm a robotics engineering student at Polytech Sorbonne with a passion for space and medical robotics applications. When I'm not building robots or diving into ROS projects, you'll find me exploring entrepreneurship and producing media content that inspires others in STEM.
 
-📐 **Studying Robotics Engineering** at Polytech Sorbonne – because why not combining my love for technology with real-world applications ? 🤖  I want to get into space and medice applications. This is what it inspires me.
-🎓 **Currently learning**: Docker, ROS, OpenCV, MongoDB, and PHP. Always adding more tools to my tech toolkit! 🔧
+## 🤖 Robotics & Engineering
 
-💬 If you want to chat about STEM, robotics, or just want to connect), reach out at [hi@madebyvasilis.site](mailto:hi@madebyvasilis.site). Active on my sociam media platforms under the username @vskarleas.
+- Currently working on robotics projects using **ROS (Robot Operating System)**, focusing on robot control systems and computer vision with OpenCV
+- Passionate about developing robotics solutions for space exploration and medical applications
+- Hands-on experience with 3D printing and prototyping for robotics components
+- Building skills in robot kinematics, sensor integration, and autonomous systems
 
-🖥 Check out my website [here](https://www.madebyvasilis.site/about). Feel free to find out more on my projects below and on the repos page.
+## 💡 Tech Projects & Entrepreneurship 
+
+- **Former CTO & Co-Founder** of [Lekitable](https://www.lekitable.fr) - France's pioneering green-products network 🌱
+- Created [Patients DB 2.0](https://madebyvasilis.site/apps) - A HIPAA-compliant medical records system
+- Developed [VScloud Connect](https://cloud.madebyvasilis.site) - A comprehensive client and project management solution
+- Built the [ChangemakerZ App](https://podcast.changemakerz.org/changemakerz) - Empowering social change through technology
+
+## 🎙️ Media & Communication
+
+- Executive Producer of [GenZers to rise! Podcast](https://podcast.changemakerz.org/)
+- Launching the [Global Navigators Podcast](https://globalnavigators.eu/)
+- Creating technical content through [videography](https://www.youtube.com/@madebyvasilis) and aerial photography
+
+## 🔧 Technical Toolkit
+
+- **Robotics & Control**: ROS, OpenCV, Robot Kinematics
+- **Development**: Docker, MongoDB, PHP
+- **Hardware**: 3D Printing, Sensor Integration, Prototyping
+- **Creative Tools**: Video Production, Digital Art, Aerial Photography
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on robotics projects or discuss innovations in STEM! Reach out at [hi@madebyvasilis.site](mailto:hi@madebyvasilis.site) or find me on social media as @vskarleas.
+
+📚 For a detailed look at my projects and experience, visit:
+- [Portfolio](https://madebyvasilis.site/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)
+- [Personal Website](https://www.madebyvasilis.site/about)
+
+_Building the future through robotics, one project at a time_ 🚀
