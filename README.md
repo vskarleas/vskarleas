@@ -22,14 +22,14 @@ I'm a robotics engineering student at Polytech Sorbonne with a passion for space
 ## 🎙️ Media & Communication
 
 - Executive Producer of [GenZers to rise! Podcast](https://podcast.changemakerz.org/)
-- Launching the [Global Navigators Podcast](https://globalnavigators.eu/)
+- Launching the Global Navigators Podcast
 - Creating technical content through [videography](https://www.youtube.com/@madebyvasilis) and aerial photography
 
 ## 🔧 Technical Toolkit
 
-- **Robotics & Control**: ROS, OpenCV, Robot Kinematics
-- **Development**: Docker, MongoDB, PHP
-- **Hardware**: 3D Printing, Sensor Integration, Prototyping
+- **Robotics & Control**: ROS, Computer vision with OpenCV, Robot Kinematics, OOP, CAO/XAO
+- **Development**: C, C++, Python, Matlab, Git, LDAP & network architecture (DNS, DHCP, Proxy)
+- **Hardware**: 3D Printing, Sensor Integration, Prototyping, UR RObots, Fanuc, Arduino,
 - **Creative Tools**: Video Production, Digital Art, Aerial Photography
 
 ## 🤝 Let's Connect!
