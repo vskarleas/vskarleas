@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Vasilis Skarleas!
 
-I'm a robotics engineering student at Polytech Sorbonne with a passion for space and medical robotics applications. When I'm not building robots or diving into ROS projects, you'll find me exploring entrepreneurship and producing media content that inspires others in STEM.
+I'm a robotics engineering student at Polytech Sorbonne with a passion for space, automobile and medical robotics applications. When I'm not diving into ROS projects, you'll find me exploring entrepreneurship and producing media content that inspire others in STEM.
 
 ## 🤖 Robotics & Engineering
 
-- Currently working on robotics projects using **ROS (Robot Operating System)**, focusing on robot control systems and computer vision with OpenCV
-- Passionate about developing robotics solutions for space exploration and medical applications
+- Currently working on robotics projects using **ROS2 (Robot Operating System)**, focusing on robot control systems
+- Intern at Renault Group on driving simulations group, applying robotic solutions on existing platforms
+- Passionate about developing robotics solutions for space exploration, automobile and medical applications
+- Computer vision with OpenCV
+- Entry level approach to neural networks for robotics AI applications
 - Hands-on experience with 3D printing and prototyping for robotics components
 - Building skills in robot kinematics, sensor integration, and autonomous systems
 
