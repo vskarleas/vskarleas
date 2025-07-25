@@ -27,11 +27,11 @@ I'm a robotics engineering student at Polytech Sorbonne with a passion for space
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on robotics projects or discuss innovations in STEM! Reach out at [hi@madebyvasilis.site](mailto:hi@madebyvasilis.site) or find me on social media as @vskarleas.
+I'm always excited to collaborate on robotics projects or discuss innovations in STEM! Reach out at [hi@vskarleas.com](mailto:hi@vskarleas.com) or find me on social media as @vskarleas.
 
 📚 For a detailed look at my projects and experience, visit:
 - [Portfolio](https://madebyvasilis.site/portfolio)
 - [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)
-- [Personal Website](https://www.madebyvasilis.site/about)
+- [Personal Website](https://www.vsarleas.com/)
 
 _Building the future through robotics, one project at a time_ 🚀
