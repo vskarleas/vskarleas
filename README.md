@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vasilis Skarleas!
 
-I'm a robotics engineering student at Polytech Sorbonne with a passion for space, automobile and medical robotics applications. I have contributed to several research programs and open source projects like the ROS2 impementation via Robostack, the manipulation of cobots in a constraint-manner, machine learning on images processing etc. Check out mmy CV and bia at [vskarleas.com](https://vskarleas.com/)
+I'm a robotics engineering student at Polytech Sorbonne with a passion for space, automobile and medical robotics applications. I have contributed to several research programs and open source projects like the ROS2 impementation via Robostack, the manipulation of cobots in a constraint-manner, machine learning on images processing etc. Check out mmy CV and bia at [madebyvasilis.site](https://madebyvasilis.site/about)
 
 ## 🤖 Robotics & Engineering
 
