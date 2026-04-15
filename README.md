@@ -10,10 +10,13 @@ I'm a robotics engineering student at Polytech Sorbonne with a passion for space
 - Hands-on experience with 3D printing and prototyping for robotics components using CAD
 - Building skills in robot kinematics, sensor integration, and autonomous systems
 
-## Tech Projects & Entrepreneurship 
+## Entrepreneurship 
 
 - Former CTO & Co-Founder of [Lekitable](https://www.lekitable.fr) - France's pioneering green-network of products 🌱
 - Created [Patients DB 2.0](https://madebyvasilis.site/apps) - A HIPAA-compliant medical records system
+
+## Tech projects
+- [ModuVib](https://github.com/moduvib)
 - Developed [VScloud Connect](https://cloud.madebyvasilis.site) - A comprehensive client and project management solution
 - Built the [JOJ 2025 app](https://joj.mgro.fr/scanner-pour-telecharger-lapplication-joj-2025/) - Networking and connection app for the JOJ 2025 conference in Paris
 - Built the [ChangemakerZ App](https://account.changemakerz.org/) - Empowering social change through technology
