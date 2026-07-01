@@ -1,7 +1,3 @@
-Got it. Here's the README with the em dashes replaced — using colons, parentheses, and mid-dots instead:
-
----
-
 # 👋 Hi, I'm Vasilis Skarleas!
 
 I'm a robotics engineer and graduate of Polytech Sorbonne (Diplôme d'ingénieur en robotique) and ÉTS Montréal, focused on building robots that work alongside people, not instead of them. My interests run across space, automotive, and medical robotics. Check out my CV and bio at [vskarleas.com](https://vskarleas.com/).
@@ -16,7 +12,7 @@ I'm a robotics engineer and graduate of Polytech Sorbonne (Diplôme d'ingénieur
 ## Selected robotics projects
 - **[CloudTwin](https://github.com/vskarleas/CloudTwin)**: a ROS2-based digital twin that offloads path planning and obstacle avoidance to a predictive AI model for crowded environments
 - **LineaScribe**: an omnidirectional parallel robot that draws in 2D with real-time trajectory visualization · [Wiki](https://wiki.fablab.sorbonne-universite.fr/BookStack/books/projets-due-2023-2024/page/projet-rob3-rami-yannis-vasilis) · [Demo](https://www.youtube.com/watch?v=9x2VUmMjCeY)
-- **Lane & vehicle detection**: real-time lane and vehicle tracking through image processing in C++/OpenCV · [Git](https://github.com/vskarleas/ROB4-S7-Lanes_and_vehicles_detection-OpenCV_project/tree/main/TP2) · [Demo](https://github.com/vskarleas/LaneWatch/tree/main/TP2)
+- **[Lane & vehicle detection](https://github.com/vskarleas/LaneWatch/tree/main/TP2)**: real-time lane and vehicle tracking through image processing in C++/OpenCV · [Demo](https://github.com/vskarleas/LaneWatch/tree/main/TP2)
 - **[ImagePulser](https://github.com/vskarleas/ROB3-S6-ImagePulser)**: webcam image vectorization using dynamic segment simplification and Bézier curves · [Demo](https://www.youtube.com/watch?v=HgWcbY_vNWo)
 - **Baxter robot**: background removal and object-size estimation for virtual-spring servoing · [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7168583152897097728/)
 - **Path planning in unstructured environments**: industrial suction-cup manipulation and trajectory planning · [Demo](https://www.youtube.com/watch?v=-zaxH012P1s)
