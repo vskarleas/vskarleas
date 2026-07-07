@@ -10,7 +10,7 @@ I'm a robotics engineer and graduate of Polytech Sorbonne (Diplôme d'ingénieur
 - Building depth in robot kinematics, sensor integration, and control systems
 
 ## Selected robotics projects
-- **[CloudTwin](https://github.com/vskarleas/CloudTwin)**: a ROS2-based digital twin that offloads path planning and obstacle avoidance to a predictive AI model for crowded environments
+- **[DRYVbot](https://github.com/vskarleas/DRYVbot)**: a ROS2-based digital twin that offloads path planning and obstacle avoidance to a predictive AI model for crowded environments
 - **LineaScribe**: an omnidirectional parallel robot that draws in 2D with real-time trajectory visualization · [Wiki](https://wiki.fablab.sorbonne-universite.fr/BookStack/books/projets-due-2023-2024/page/projet-rob3-rami-yannis-vasilis) · [Demo](https://www.youtube.com/watch?v=9x2VUmMjCeY)
 - **[Lane & vehicle detection](https://github.com/vskarleas/LaneWatch/tree/main/TP2)**: real-time lane and vehicle tracking through image processing in C++/OpenCV · [Demo](https://github.com/vskarleas/LaneWatch/tree/main/TP2)
 - **[ImagePulser](https://github.com/vskarleas/ROB3-S6-ImagePulser)**: webcam image vectorization using dynamic segment simplification and Bézier curves · [Demo](https://www.youtube.com/watch?v=HgWcbY_vNWo)
