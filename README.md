@@ -39,8 +39,8 @@ I'm a robotics engineer and graduate of Polytech Sorbonne (Diplôme d'ingénieur
 
 ## Let's connect!
 Always up for collaborating on robotics projects or talking shop about STEM. Reach me at [hi@vskarleas.com](mailto:hi@vskarleas.com) or find me as @vskarleas.
-- [Portfolio](https://madebyvasilis.site/portfolio)
-- [LinkedIn](https://www.linkedin.com/in/vasilis-skarleas/details/projects/)
+- [LinkedIn]([https://www.linkedin.com/in/vasilis-skarleas/details/projects/](https://www.linkedin.com/in/vskarleas/details/projects/))
 - [Personal Website](https://www.vskarleas.com/)
+- [My company](https://diktio.fr)
 
 *Building the future through robotics, one project at a time* 🚀
